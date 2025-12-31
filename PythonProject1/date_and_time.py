@@ -1,0 +1,9 @@
+import datetime
+
+import start
+day=start.day
+month=start.month
+year=start.year
+print(day)
+print(month)
+print(year)
